@@ -5,7 +5,18 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
-      h1 Tema 3
+      h1 Estados financieros básicos para analizar la empresa
+    
+
+    
+    <!------------------------------------------ SUBTEMA 1 ------------------------------------------>
+    Separador
+    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 3.1 Propósito e importancia de los estados financieros
+
+
+
+
 
 </template>
 
