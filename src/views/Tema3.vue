@@ -99,21 +99,21 @@
           SlyderA(tipo="b")
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Para qué sirve
+                h4 ¿Para qué sirve?
                 p.mb-0 Se utiliza para verificar la relación entre lo que la empresa posee (activos) y lo que debe a terceros o a los socios (pasivos y patrimonio).
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img52.png', alt='' style="max-width: 500px").m-auto
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Cuando se presenta
+                h4 ¿Cuando se presenta?
                 p.mb-0 Se elabora al cierre de cada ejercicio fiscal, aunque también puede prepararse mensualmente para el control administrativo interno.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img53.png', alt='' style="max-width: 500px").m-auto
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Cómo se diligencia
+                h4 ¿Cómo se diligencia?
                 p.mb-0 Se clasifican las cuentas bajo criterios de liquidez para los activos (corrientes y no corrientes) y de exigibilidad para los pasivos. Los datos se toman directamente de los saldos de las cuentas reales del libro mayor.
               .col-xl-6
                 figure
@@ -290,7 +290,7 @@
             .col-7
               figure.mb-4(data-aos="fade-right")
                 img(src='@/assets/curso/temas/img59.svg', alt="" style="max-width: 90px").m-auto
-            h4.text-center Para qué sirve
+            h4.text-center ¿Para qué sirve?
             p.mb-0.text-center Determinar si la empresa obtuvo una utilidad o una pérdida neta al finalizar el periodo contable.
       .col-xl-4.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
         .box___style_13.h-100
@@ -298,7 +298,7 @@
             .col-7
               figure.mb-4(data-aos="fade-right")
                 img(src='@/assets/curso/temas/img60.svg', alt="" style="max-width: 90px").m-auto
-            h4.text-center Cuándo se presenta
+            h4.text-center ¿Cuándo se presenta?
             p.mb-0.text-center Al término del ejercicio fiscal, para informar a los socios sobre el rendimiento de su inversión.
       .col-xl-4.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
         .box___style_13.h-100
@@ -306,7 +306,7 @@
             .col-7
               figure.mb-4(data-aos="fade-left")
                 img(src='@/assets/curso/temas/img61.svg', alt="" style="max-width: 90px").m-auto
-            h4.text-center Cómo se diligencia
+            h4.text-center ¿Cómo se diligencia?
             p.mb-0 Se registran los ingresos totales por ventas y se restan, de forma secuencial, los costos de ventas, los gastos de administración y los gastos de ventas, aplicando el principio de causación o devengo.
     .color___box_2
       .px-5
@@ -452,7 +452,7 @@
           figure
             img(src='@/assets/curso/temas/img65.png', alt='').m-auto
         .col-xl
-          p.mb-0 Para su diligenciamiento, se examinan las variaciones en las cuentas de efectivo entre el inicio y el final del ejercicio fiscal. Se reconocen como entradas de efectivo las ventas efectivamente cobradas o los préstamos recibidos, y como salidas los pagos realizados a proveedores, empleados y entidades financieras. Su estructura exige separar claramente las actividades operativas, las actividades de inversión y las actividades de financiación, garantizando coherencia y trazabilidad en la información reportada.
+          p.mb-0 Para su diligenciamiento, se examinan las variaciones en las cuentas de efectivo entre el inicio y el final del ejercicio fiscal. Se reconocen como entradas de efectivo las ventas efectivamente cobradas o los préstamos recibidos, y como salidas, los pagos realizados a proveedores, empleados y entidades financieras. Su estructura exige separar claramente las actividades operativas, las actividades de inversión y las actividades de financiación, garantizando coherencia y trazabilidad en la información reportada.
     p Este estado financiero es obligatorio dentro de los informes de propósito general y se presenta al cierre de cada periodo contable. Además, permite proyectar flujos futuros de efectivo y apoyar a los inversionistas en la evaluación de la capacidad de la empresa para pagar dividendos sin comprometer su estabilidad operativa (Estupiñán Gaitán, 2020).
     p.mb-5 A continuación, se resume la estructura básica del Estado de flujos de efectivo según la clasificación de actividades:
     .row.justify-content-center.mb-5

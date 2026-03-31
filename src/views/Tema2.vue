@@ -46,27 +46,27 @@
                     th.texto-left Qué se logra
                 tbody
                   tr.ajuste-color-tabla
-                    td.ajuste-border-tabla.texto-left #[b 1]
+                    td.ajuste-border-tabla.texto-left  #[b 1]
                     td.ajuste-border-tabla.texto-left Qué ocurrió
                     td.ajuste-border-tabla.texto-left Descripción de la cuenta
                     td.texto-left Registro con sentido
                   tr
-                    td.ajuste-border-tabla.texto-left #[b 2]
-                    td.ajuste-border-tabla.texto-left Qué afecta (activo/pasivo/ingreso/ gasto/costo)
+                    td.ajuste-border-tabla.texto-left  #[b 2]
+                    td.ajuste-border-tabla.texto-left Qué afecta (activo /pasivo /ingreso / gasto / costo)
                     td.ajuste-border-tabla.texto-left Clase y grupo
                     td.texto-left Ubicación correcta
                   tr.ajuste-color-tabla
-                    td.ajuste-border-tabla.texto-left #[b 3]
+                    td.ajuste-border-tabla.texto-left  #[b 3]
                     td.ajuste-border-tabla.texto-left Qué cuenta corresponde
                     td.ajuste-border-tabla.texto-left Cuenta/subcuenta
                     td.texto-left Nivel de detalle coherente
                   tr
-                    td.ajuste-border-tabla.texto-left #[b 4]
+                    td.ajuste-border-tabla.texto-left  #[b 4]
                     td.ajuste-border-tabla.texto-left Cómo se mueve la cuenta
                     td.ajuste-border-tabla.texto-left Dinámica
                     td.texto-left Movimiento consistente
                   tr.ajuste-color-tabla
-                    td.ajuste-border-tabla.texto-left #[b 5]
+                    td.ajuste-border-tabla.texto-left  #[b 5]
                     td.ajuste-border-tabla.texto-left Cómo queda soportado
                     td.ajuste-border-tabla.texto-left Comprobante/soporte interno
                     td.texto-left Trazabilidad del registro
@@ -400,19 +400,19 @@
                 li.mb-1
                   span.fa-li
                     i.fas.fa-arrow-alt-circle-right
-                  | #[b Clase. 1 - Activo. ]: Indica que el código representa un bien o derecho de la empresa.
+                  | #[b Clase. 1 - Activo. ] Indica que el código representa un bien o derecho de la empresa.
                 li.mb-1
                   span.fa-li
                     i.fas.fa-arrow-alt-circle-right
-                  | #[b Grupo.	11 - Disponible. ]: Señala que el recurso posee liquidez inmediata.
+                  | #[b Grupo.	11 - Disponible. ] Señala que el recurso posee liquidez inmediata.
                 li.mb-1
                   span.fa-li
                     i.fas.fa-arrow-alt-circle-right
-                  | #[b Cuenta. 1110 - Bancos. ]: Define que el dinero se encuentra depositado en una entidad financiera.
+                  | #[b Cuenta. 1110 - Bancos. ] Define que el dinero se encuentra depositado en una entidad financiera.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-arrow-alt-circle-right
-                  | #[b Subcuenta. 111005 - Moneda Nacional. ]: Especifica que la cuenta bancaria está expresada en pesos colombianos.
+                  | #[b Subcuenta. 111005 - Moneda Nacional. ] Especifica que la cuenta bancaria está expresada en pesos colombianos.
     .box___style_8.mb-5(data-aos="flip-up")
       .row.align-items-center
         .col-xl-auto.col-md-2.mb-3.mb-lg-0(data-aos="fade-right")

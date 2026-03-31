@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Relacionamiento del PUC con estados financieros básicos (NIC/NIIF)',
     Description:
-      'En este componente se reconoce el PUC como el mapa del registro: su objetivo, codificación y estructura orientan la selección de cuentas según cada transacción. Con la dinámica y descripción de cuentas del PUC se registra con coherencia y se obtienen saldos organizados para su posterior agrupación. Con base en esos saldos se elaboran los estados financieros básicos: balance general (estado de situación financiera) y estado de resultados. En la presentación se aplican criterios generales NIC/NIIF de estructura y comparabilidad para facilitar la lectura y el análisis.  ',
+      'En este componente se reconoce el PUC como el mapa del registro: su objetivo, codificación y estructura orientan la selección de cuentas según cada transacción. Con la dinámica y descripción de cuentas del PUC, se registra con coherencia y se obtienen saldos organizados para su posterior agrupación. Con base en esos saldos se elaboran los estados financieros básicos: balance general (estado de situación financiera) y estado de resultados. En la presentación se aplican criterios generales NIC/NIIF de estructura y comparabilidad para facilitar la lectura y el análisis.  ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

@@ -9,7 +9,7 @@
     p.mb-5 A continuación, se presenta un video sobre el Plan Único de Cuentas (PUC), con el propósito de comprender su estructura y su importancia en la organización del registro contable empresarial.
     figure(data-aos="zoom-in")
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/uRWudMa8uy0" title="Plan Único de Cuentas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption(data-aos="zoom-in") #[b Video]: Plan Único de Cuentas.
     <!------------------------------------------ SUBTEMA 1 ------------------------------------------>
     Separador
@@ -75,24 +75,24 @@
             .col-12
               figure.mb-4
                 img(src='@/assets/curso/temas/img5.jpg', alt="" ).m-auto
-            h4.text-center Clase 1, 2 y 3
-            p.mb-0.text-center Corresponden a cuentas del #[b balance general].
+            h4.text-center Clases 1, 2 y 3 - Cuentas del Balance general 
+            p.mb-0.text-center Agrupan los activos, pasivos y patrimonio que representan la situación financiera de la entidad al cierre del periodo contable.
       .col-xl-4.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
         .box___style_2.h-100
           .row.justify-content-center.mb-3
             .col-12
               figure.mb-4
                 img(src='@/assets/curso/temas/img6.jpg', alt="" ).m-auto
-            h4.text-center Clase 4, 5, 6 y 7
-            p.mb-0.text-center Integran el #[b estado de resultados].
+            h4.text-center Clases 4, 5, 6 y 7 - Cuentas del Estado de resultados 
+            p.mb-0.text-center Incluyen los ingresos, costos y gastos que permiten determinar el desempeño económico y la utilidad o pérdida del ejercicio.
       .col-xl-4.col-md-9(data-aos="fade-left")
         .box___style_2.h-100
           .row.justify-content-center.mb-3
             .col-12
               figure.mb-4
                 img(src='@/assets/curso/temas/img7.jpg', alt="" ).m-auto
-            h4.text-center Clase 8 y 9
-            p.mb-0.text-center Comprenden las #[b cuentas de orden].
+            h4.text-center Clases 8 y 9 - Cuentas de orden 
+            p.mb-0.text-center Registran hechos económicos contingentes, de control o información que no afectan directamente la situación financiera ni el resultado del periodo.
     p.mb-5 Leer un código implica interpretar esta jerarquía. Por ejemplo, el código #[b 1105] se descompone así: el primer dígito (1) indica que pertenece al #[b activo]; los dos primeros dígitos (11) señalan el grupo de #[b disponible]; y los cuatro dígitos (1105) identifican la cuenta específica. Si se requiere mayor nivel de detalle, se emplean subcuentas de seis dígitos o auxiliares adicionales, según las necesidades de información.
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
       .bloque-texto-g__img(
@@ -108,25 +108,25 @@
             .box___style_3.h-100
               h4.mb-0.text-center Clase
               .fit___p_card
-                p.text-center 1 Dígito.
+                p.text-center 1 dígito.
                 p.mb-0.text-center Ejemplo: 1.
           .col-xl-3.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
             .box___style_3.h-100
               h4.mb-0.text-center Grupo
               .fit___p_card
-                p.text-center 2 Dígitos.
+                p.text-center 2 dígitos.
                 p.mb-0.text-center Ejemplo: 11.
           .col-xl-3.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
             .box___style_3.h-100
               h4.mb-0.text-center Cuenta
               .fit___p_card
-                p.text-center 4 Dígitos.
+                p.text-center 4 dígitos.
                 p.mb-0.text-center Ejemplo: 1105.
           .col-xl-3.col-md-9(data-aos="zoom-in")
             .box___style_3.h-100
               h4.mb-0.text-center Subcuenta
               .fit___p_card
-                p.text-center 6 Dígitos.
+                p.text-center 6 dígitos.
                 p.mb-0.text-center Ejemplo: 110505.
         .box___style_4(data-aos="flip-up")
           .row.align-items-center
@@ -156,7 +156,7 @@
       .px-5
         p.mb-5 A continuación, se organiza la clasificación general de las cuentas por clases y su relación con los principales reportes financieros:
         .row.justify-content-center.mb-5
-          .col-xl-10
+          .col-xl-8
             .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
               h5 Tabla 1.
               span Clasificación general de las cuentas por clases y reportes asociados
