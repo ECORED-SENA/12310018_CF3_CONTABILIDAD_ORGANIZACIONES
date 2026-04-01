@@ -138,7 +138,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/12310018_CF3_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -268,9 +268,15 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Germán Adolfo Rodríguez Pulido',
+          cargo: 'Experto temático',
+          centro: 'Centro Comercio y Servicios - Regional Risaralda',
+        },
+        {
+          nombre: 'Paula Marcela Vidal Quintero',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -308,12 +314,6 @@ export default {
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Carlos Eduardo Garavito Parada',
-          cargo: 'Animador y productor audiovisual',
-          centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
-        },
-        {
           nombre: 'Maria Carolina Tamayo Lopez',
           cargo: 'Locución',
           centro:
@@ -321,6 +321,12 @@ export default {
         },
         {
           nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Fabio Armando Ortiz Reyes',
           cargo: 'Locución',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
