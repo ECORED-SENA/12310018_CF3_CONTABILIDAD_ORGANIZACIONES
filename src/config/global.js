@@ -203,8 +203,6 @@ export default {
     {
       referencia:
         'Congreso de la República de Colombia. (2009). Ley 1314 de 2009 por la cual se regulan los principios y normas de contabilidad e información financiera y de aseguramiento de información aceptados en Colombia. Diario Oficial No. 47.409. ',
-      link:
-        'https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes%2F1677255',
     },
     {
       referencia:
@@ -235,7 +233,6 @@ export default {
     {
       referencia:
         'Presidencia de la República de Colombia. (1993). Decreto 2650 de 1993 por el cual se modifica el Plan Único de Cuentas para comerciantes. Diario Oficial No. 41.156. ',
-      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=1772403',
     },
     {
       referencia:
